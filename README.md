@@ -92,8 +92,8 @@ My personal portfolio website showcasing projects, blogs, and my professional jo
 ## 📫 Let's Connect
 I'm always open to collaboration or feedback! Feel free to reach out.
 
-- **Email:** [jefftan@example.com](mailto:jefftan@example.com)  
-- **LinkedIn:** [JeffTan LinkedIn Profile](https://www.linkedin.com/in/haoyang-tan)
+- **Email:** [jeff.tandev@gmail.com](mailto:jeff.tandev@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/haoyangtgoduck/](https://www.linkedin.com/in/haoyangtgoduck/)
 
 ---
 
