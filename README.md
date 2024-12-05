@@ -1,4 +1,4 @@
-# Welcome to JeffTanDev's GitHub
+# Welcome to Jeff's GitHub
 
 🌟 **Elegant. Simple. Powerful.** 🌟  
 Discover my latest and greatest projects, designed with precision and built to inspire innovation.
@@ -57,17 +57,6 @@ An intelligent system for managing inventory, sales, and transactions with effic
 #### Technologies Used:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### [Post-Analysis](https://github.com/JeffTanDev/PostAnalysis)
-An advanced data analysis and visualization tool for transforming raw data into insights.  
-**Completion Date:** March 2024  
-
-#### Technologies Used:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
