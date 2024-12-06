@@ -18,7 +18,7 @@ A cutting-edge eco-capital trading platform promoting sustainability in business
 
 ---
 
-### [Climate Shield](https://github.com/JeffTanDev/ClimateShield)
+### [Climate Shield](https://github.com/JeffTanDev/Climate-Shield)
 A disaster emergency response mutual assistance system to improve resilience against climate challenges.  
 **Completion Date:** October 2024  
 
@@ -38,7 +38,7 @@ A social network application focused on delivering seamless user connections and
 
 ---
 
-### [Image-Based Wordle Game](https://github.com/JeffTanDev/ImageBasedWordleGame)
+### [Image-Based Wordle Game](https://github.com/JeffTanDev/Image-Based-Wordle-Game)
 A fun Wordle-inspired game where players guess countries based on their flags.  
 **Completion Date:** August 2024  
 
@@ -59,7 +59,7 @@ An intelligent system for managing inventory, sales, and transactions with effic
 
 ---
 
-### [Personal Website](jefftandev.github.io/Personal-website/)
+### [Personal Website](https://jefftandev.github.io/Personal-website/)
 My personal portfolio website showcasing projects, blogs, and my professional journey.  
 **Completion Date:** January 2024  
 
