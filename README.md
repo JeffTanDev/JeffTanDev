@@ -35,7 +35,6 @@ A social network application focused on delivering seamless user connections and
 
 #### Technologies Used:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -60,14 +59,13 @@ An intelligent system for managing inventory, sales, and transactions with effic
 
 ---
 
-### [Personal Website](https://github.com/JeffTanDev/PersonalWebsite)
+### [Personal Website](jefftandev.github.io/Personal-website/)
 My personal portfolio website showcasing projects, blogs, and my professional journey.  
 **Completion Date:** January 2024  
 
 #### Technologies Used:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
