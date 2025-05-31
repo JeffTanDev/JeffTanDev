@@ -7,7 +7,7 @@ Discover my latest and greatest projects, designed with precision and built to i
 
 ## 🚀 Featured Projects (Sorted by Completion Date)
 
-### [Amazon Dashboard System](https://github.com/JeffTanDev/dashboard_mini_amazon)
+### [Mini Amazon](https://github.com/JeffTanDev/dashboard_mini_amazon)
 A comprehensive e-commerce solution with modern frontend and microservices backend.  
 **Completion Date:** December 2024  
 
@@ -16,12 +16,14 @@ A comprehensive e-commerce solution with modern frontend and microservices backe
 - Real-time data visualization
 - Responsive design with Vite
 - State management with Redux
+- [Frontend Repository](https://github.com/JeffTanDev/dashboard_mini_amazon)
 
 #### Backend Services
 - Microservices architecture
 - Content, User, and Product services
 - API Gateway for request routing
 - Node.js with hot-reload support
+- [Backend Repository](https://github.com/JeffTanDev/server_mini_amazon)
 
 #### Technologies Used:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -47,10 +49,24 @@ A cutting-edge eco-capital trading platform promoting sustainability in business
 A disaster emergency response mutual assistance system to improve resilience against climate challenges.  
 **Completion Date:** October 2024  
 
+#### Frontend Application
+- Interactive weather maps and disaster tracking
+- Real-time data visualization
+- Responsive user interface
+- [Frontend Repository](https://github.com/JeffTanDev/front_hackthon)
+
+#### Backend Services
+- Natural Language Processing for disaster analysis
+- Weather and disaster data integration
+- MongoDB database for data persistence
+- [Backend Repository](https://github.com/JeffTanDev/Climate-Shield)
+
 #### Technologies Used:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -60,17 +76,6 @@ A social network application focused on delivering seamless user connections and
 
 #### Technologies Used:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### [Image-Based Wordle Game](https://github.com/JeffTanDev/Image-Based-Wordle-Game)
-A fun Wordle-inspired game where players guess countries based on their flags.  
-**Completion Date:** August 2024  
-
-#### Technologies Used:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
