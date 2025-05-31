@@ -7,6 +7,31 @@ Discover my latest and greatest projects, designed with precision and built to i
 
 ## 🚀 Featured Projects (Sorted by Completion Date)
 
+### [Amazon Dashboard System](https://github.com/JeffTanDev/dashboard_mini_amazon)
+A comprehensive e-commerce solution with modern frontend and microservices backend.  
+**Completion Date:** December 2024  
+
+#### Frontend Dashboard
+- Modern React-based admin interface
+- Real-time data visualization
+- Responsive design with Vite
+- State management with Redux
+
+#### Backend Services
+- Microservices architecture
+- Content, User, and Product services
+- API Gateway for request routing
+- Node.js with hot-reload support
+
+#### Technologies Used:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
 ### [EcoCap-Trade](https://github.com/JeffTanDev/EcoCap-Trade)
 A cutting-edge eco-capital trading platform promoting sustainability in businesses.  
 **Completion Date:** November 2024  
@@ -49,16 +74,6 @@ A fun Wordle-inspired game where players guess countries based on their flags.
 
 ---
 
-### [StoreManager](https://github.com/JeffTanDev/StoreManager)
-An intelligent system for managing inventory, sales, and transactions with efficiency.  
-**Completion Date:** June 2024  
-
-#### Technologies Used:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ### [Personal Website](https://jefftandev.github.io/Personal-website/)
 My personal portfolio website showcasing projects, blogs, and my professional journey.  
 **Completion Date:** January 2024  
@@ -84,4 +99,4 @@ I'm always open to collaboration or feedback! Feel free to reach out.
 
 ---
 
-✨ _“Innovation distinguishes between a leader and a follower.”_ — Steve Jobs
+✨ _"Innovation distinguishes between a leader and a follower."_ — Steve Jobs
